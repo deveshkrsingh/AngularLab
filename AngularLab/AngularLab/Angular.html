@@ -1,0 +1,142 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="myapp">
+<head>
+    <title>Angular JS</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.4/angular.min.js"></script>
+    <script type="text/javascript">
+        var myapp = angular.module('employeeapp', []);
+        myapp.controller('TodoCtrl', ['$scope', function ($scope)
+        {
+            $scope.todos = [
+             { language: "javascript", status: true },
+              { language: "C#", status: true },
+               { language: "Java", status: false }
+            ];
+            $scope.addtodo = function () {
+                $scope.todos.push({ language: $scope.todotext, status: false });
+                $scope.todotext = '';
+            }
+        }
+        ]);
+        var uid = 1;
+        var employeeapp = angular.module('employeeapp', []);
+        employeeapp.controller('EmpCtrl', ['$scope', function ($scope)
+        {
+            $scope.contacts = [
+         {
+             id: 0, 'name': 'Viral',
+             'email': 'hello@gmail.com',
+             'phone': '123-2343-44'
+         }];
+
+         $scope.saveContact = function() {
+         
+                if($scope.newcontact.id == null) {
+                    //if this is new contact, add it in contacts array
+                    $scope.newcontact.id = uid++;
+                    $scope.contacts.push($scope.newcontact);
+                } else {
+                    //for existing contact, find this contact using id
+                    //and update it.
+                    for(i in $scope.contacts) {
+                        if($scope.contacts[i].id == $scope.newcontact.id) {
+                            $scope.contacts[i] = $scope.newcontact;
+                        }
+                    }                
+                }
+         
+             //clear the add contact form
+                $scope.newcontact = {};
+         }
+         $scope.delete = function(id) {
+         
+             //search contact with given id and delete it
+             for(i in $scope.contacts) {
+                 if($scope.contacts[i].id == id) {
+                     $scope.contacts.splice(i,1);
+                     $scope.newcontact = {};
+                 }
+             }
+         
+         }
+     
+     
+         $scope.edit = function(id) {
+             //search contact with given id and update it
+             for(i in $scope.contacts) {
+                 if($scope.contacts[i].id == id) {
+                     //we use angular.copy() method to create 
+                     //copy of originial object
+                     $scope.newcontact = angular.copy($scope.contacts[i]);
+                 }
+             }
+         }
+        }
+            ];
+        }
+        ]);
+        //function TodoCtrl($scope)
+        //{
+        //    $scope.todos = [
+        //        { language: "javascript", status: true },
+        //         { language: "C#", status: true },
+        //          { language: "Java", status: false }
+        //    ];
+        //    $scope.addtodo = function () {
+        //        $scope.todos.push({ language: $scope.todotext, status: false });
+        //        $scope.todotext = '';
+        //    }
+
+        //}
+    </script>
+
+</head>
+<body>
+   <h2>Language Status</h2>
+    <div ng-controller="EmpCtrl">
+       <!-- <ul>
+            <li ng-repeat="todo in todos" >
+                <input type="checkbox" ng-model="todo.status" /><button ng-click=""
+                <span>{{todo.language}}</span>
+                  <input type="text" ng-model="todo.language" />
+            </li>
+        </ul>
+        <form ng-submit="addtodo()">
+            <input type="text" placeholder="add language" ng-model="todotext" />
+            <input value="Add" type="submit" />
+ 
+        </form>-->
+         <form>
+    <label>Name</label> 
+        <input type="text" name="name" ng-model="newcontact.name"/>
+    <label>Email</label> 
+        <input type="text" name="email" ng-model="newcontact.email"/>
+    <label>Phone</label> 
+        <input type="text" name="phone" ng-model="newcontact.phone"/>
+        <br/>
+        <input type="hidden" ng-model="newcontact.id" />
+     <input type="button" value="Save" ng-click="saveContact()" />
+    </form>
+     <table>
+         <thead>
+             <tr>
+                 <td>Name</td>
+                 <td>Phone</td>
+                 <td>Email</td>
+             </tr>
+         </thead>
+         <tbody>
+            <tr ng-repeat="contact in contacts">
+    <td>{{ contact.name }}</td>
+    <td>{{ contact.email }}</td>
+    <td>{{ contact.phone }}</td>
+    <td>
+        <a  href="#" ng-click="edit(contact.id)">edit</a> | 
+        <a href="#" ng-click="delete(contact.id)">delete</a>
+    </td>
+ </tr>
+         </tbody>
+     </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,60 @@
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\AngularLab.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\AngularLab.pdb
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Antlr3.Runtime.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.AspNet.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.Core.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\EntityFramework.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\Microsoft.Web.Infrastructure.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\System.Web.Optimization.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\System.Web.Providers.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\WebGrease.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\EntityFramework.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.Core.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\bin\DotNetOpenAuth.AspNet.xml
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\obj\Debug\AngularLab.csprojResolveAssemblyReference.cache
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\obj\Debug\AngularLab.dll
+c:\users\devesh.kumar\documents\visual studio 2012\Projects\AngularLab\AngularLab\obj\Debug\AngularLab.pdb
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\AngularLab.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\AngularLab.pdb
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Antlr3.Runtime.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.Core.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\EntityFramework.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\System.Web.Optimization.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\System.Web.Providers.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\WebGrease.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\EntityFramework.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.Core.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\obj\Debug\AngularLab.csprojResolveAssemblyReference.cache
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\obj\Debug\AngularLab.dll
+C:\Users\devesh.kumar\Documents\GitHub\AngularLab\AngularLab\AngularLab\obj\Debug\AngularLab.pdb
